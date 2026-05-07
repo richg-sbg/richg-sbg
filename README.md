@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Golang, Ansible, k8s
 - 🌱 I’m currently learning Python, Golang, Ansible, k8s
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @richg on Slack, richard.gration@flutteruki.com
+- 📫 How to reach me @richard.gration on Slack, richard.gration@flutteruki.com
 
 <!---
 richg-sbg/richg-sbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
